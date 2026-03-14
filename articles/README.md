@@ -8,7 +8,7 @@ Update this section after each Juejin article is published.
 
 ### 01. 我为什么开始系统记录 AI 在真实项目交付中的用法
 
-- Link: `<juejin-article-link>`
+- Link: `https://juejin.cn/post/7616639784232927258`
 - Summary:
   Why I started treating AI as part of real project delivery instead of just a coding shortcut.
 

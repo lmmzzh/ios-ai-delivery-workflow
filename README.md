@@ -24,13 +24,13 @@ The focus is on:
   article index and links to published writing
 
 - `templates/`
-  reusable templates for planning, handoff, and collaboration memory
+  reusable templates for planning, handoff, collaboration memory, and risk boundaries
 
 - `notes/`
-  short notes on engineering workflow and delivery decisions
+  desensitized workflow notes and public example cases
 
 - `tools/`
-  reserved for small workflow experiments
+  reserved for future lightweight workflow experiments
 
 ## Current Topics
 
@@ -46,6 +46,7 @@ Start here:
 
 - `articles/README.md`
 - `templates/README.md`
+- `notes/README.md`
 
 ## Principles
 

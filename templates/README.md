@@ -38,6 +38,26 @@ Best for:
 - repeated collaboration with AI
 - preserving boundaries, naming rules, and default decisions
 
+### risk-boundary-template.md
+
+Use this before implementation when a round touches an existing stable project and the main challenge is deciding what should not be changed.
+
+Best for:
+
+- legacy project iteration
+- new feature access in existing flows
+- separating safe progress from unnecessary expansion
+
+## Recommended Order
+
+If a task is not trivial, a good default order is:
+
+1. risk-boundary-template.md
+2. plan-template.md
+3. handoff-template.md
+
+Use collaboration-memory-template.md when the project starts building up stable rules that should not be re-explained in every round.
+
 ## Principles
 
 - clear boundaries over long notes

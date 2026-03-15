@@ -14,7 +14,7 @@ Update this section after each Juejin article is published.
 
 ### 02. 老项目里接一个新模块，我为什么优先选择低风险加壳
 
-- Link: `<juejin-article-link>`
+- Link: `https://juejin.cn/post/7616660809601171494`
 - Summary:
   Why low-risk shelling is often a better choice than rewriting when iterating inside a legacy project.
 
